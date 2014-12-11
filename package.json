@@ -1,0 +1,22 @@
+{
+  "name": "linux-process",
+  "version": "0.0.1",
+  "description": "Node module for Linux process control",
+  "author": {
+    "name": "GKuChan",
+    "email": "gkuchan_root@outlook.com"
+  },
+  "keywords": [
+    "linux",
+    "process"
+  ],
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GKuChan/linux-process.git"
+  },
+  "dependencies": {
+  }
+}
